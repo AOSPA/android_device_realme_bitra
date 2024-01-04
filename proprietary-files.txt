@@ -18,6 +18,7 @@ odm/lib/rfsa/adsp/libarcsoft_portraitsn_hvx_skel_21619.so
 # Audio libraries
 odm/lib/liblvimfs.so
 odm/lib/liblvimfs_wrapper.so
+odm/lib/libstdc++.so
 vendor/lib/hw/audio.primary.kona.so
 
 # Audio firmware
