@@ -1,0 +1,21 @@
+#
+# RMX3370 (21619) common props
+#
+ro.product.bootimage.device=RE5473
+ro.product.bootimage.name=RMX3370
+ro.product.device=RE5473
+ro.product.name=RMX3370
+ro.product.odm.device=RE5473
+ro.product.odm.name=RMX3370
+ro.product.odm_dlkm.device=RE5473
+ro.product.odm_dlkm.name=RMX3370
+ro.product.product.device=RE5473
+ro.product.product.name=RMX3370
+ro.product.system.device=RE5473
+ro.product.system.name=RMX3370
+ro.product.system_ext.device=RE5473
+ro.product.system_ext.name=RMX3370
+ro.product.vendor.device=RE5473
+ro.product.vendor.name=RMX3370
+ro.product.vendor_dlkm.device=RE5473
+ro.product.vendor_dlkm.name=RMX3370

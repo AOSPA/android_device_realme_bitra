@@ -1,0 +1,12 @@
+#
+# RMX3370TR (EUEX Turkey) specific props
+#
+ro.product.bootimage.name=RMX3370TR
+ro.product.name=RMX3370TR
+ro.product.odm.name=RMX3370TR
+ro.product.odm_dlkm.name=RMX3370TR
+ro.product.product.name=RMX3370TR
+ro.product.system.name=RMX3370TR
+ro.product.system_ext.name=RMX3370TR
+ro.product.vendor.name=RMX3370TR
+ro.product.vendor_dlkm.name=RMX3370TR

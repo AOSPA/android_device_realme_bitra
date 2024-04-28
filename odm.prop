@@ -1,0 +1,3 @@
+# SKU properties
+import /odm/etc/${ro.boot.prjname}.prop
+import /odm/etc/${ro.boot.prjname}-${vendor.oplus.nv_id}.prop

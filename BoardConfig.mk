@@ -23,4 +23,6 @@ DEVICE_PATH := device/realme/bitra
 TARGET_OTA_ASSERT_DEVICE := RE5473,RE879AL1,bitra
 
 # Properties
+TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
+TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop

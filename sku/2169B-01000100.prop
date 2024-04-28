@@ -1,0 +1,12 @@
+#
+# RMX3370EEA (EUEX) specific props
+#
+ro.product.bootimage.name=RMX3370EEA
+ro.product.name=RMX3370EEA
+ro.product.odm.name=RMX3370EEA
+ro.product.odm_dlkm.name=RMX3370EEA
+ro.product.product.name=RMX3370EEA
+ro.product.system.name=RMX3370EEA
+ro.product.system_ext.name=RMX3370EEA
+ro.product.vendor.name=RMX3370EEA
+ro.product.vendor_dlkm.name=RMX3370EEA

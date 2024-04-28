@@ -1,0 +1,12 @@
+#
+# RMX3370T2 (Thailand) specific props
+#
+ro.product.bootimage.name=RMX3370T2
+ro.product.name=RMX3370T2
+ro.product.odm.name=RMX3370T2
+ro.product.odm_dlkm.name=RMX3370T2
+ro.product.product.name=RMX3370T2
+ro.product.system.name=RMX3370T2
+ro.product.system_ext.name=RMX3370T2
+ro.product.vendor.name=RMX3370T2
+ro.product.vendor_dlkm.name=RMX3370T2
