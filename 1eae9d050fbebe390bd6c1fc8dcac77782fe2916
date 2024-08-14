@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f93595f2_faa80c59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000498
+      },
+      "writtenOn": "2024-08-14T17:39:31Z",
+      "side": 1,
+      "message": "Hold until wvmkiller is fixed",
+      "revId": "1eae9d050fbebe390bd6c1fc8dcac77782fe2916",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
